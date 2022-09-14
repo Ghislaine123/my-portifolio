@@ -58,7 +58,6 @@ body
        
    font-size:28px;
    margin: 20px;
-   /* margin-left: 30px; */
    padding: 10px;
 
    /* color: blueviolet; */
@@ -74,7 +73,9 @@ body
 	/* margin-top: -70px; */
 
 }
-
+.cont-bar{
+	padding:  10px 50px;
+}
 .cont-bar h1
 {
 	text-align: center;
