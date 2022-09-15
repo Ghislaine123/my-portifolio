@@ -72,6 +72,7 @@ body
 }
 .cont-bar{
 	padding:  10px 50px;
+	background-color: darkgray;
 }
 .cont-bar h1
 {
@@ -85,6 +86,7 @@ body
 	align-items: center;
 	justify-content: center;
 	margin: 20px 0;
+	background-color: chocolate;
 }
 .projects-container .projects-card
 {
@@ -126,6 +128,11 @@ body
   font-weight: bold;
 }
 
+.card img
+{
+	height: 100px;
+	width: 100px;
+}
 
 @media screen and (max-width: 600px) {
   .column {
