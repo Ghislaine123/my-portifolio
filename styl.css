@@ -126,6 +126,7 @@ body
   background-color: #f1f1f1;
   height: 300px;
   font-weight: bold;
+  border-radius: 10px;
 }
 
 .card .pict-1 img
