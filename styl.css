@@ -128,7 +128,22 @@ body
   font-weight: bold;
 }
 
-.card img
+.card .pict-1 img
+{
+	height: 50%;
+	width: 50%;
+}
+.card .pict-2 img
+{
+	height: 50%;
+	width: 50%;
+}
+.card .pict-3 img
+{
+	height: 50%;
+	width: 50%;
+}
+.card .pict-4 img
 {
 	height: 50%;
 	width: 50%;
