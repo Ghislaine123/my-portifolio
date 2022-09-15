@@ -131,23 +131,23 @@ body
 
 .card .pict-1 img
 {
-	height: 50%;
-	width: 50%;
+	height: 100%;
+	width: 100%;
 }
 .card .pict-2 img
 {
-	height: 50%;
-	width: 50%;
+	height: 100%;
+	width: 100%;
 }
 .card .pict-3 img
 {
-	height: 50%;
-	width: 50%;
+	height: 100%;
+	width: 100%;
 }
 .card .pict-4 img
 {
-	height: 50%;
-	width: 50%;
+	height: 100%;
+	width: 100%;
 }
 
 @media screen and (max-width: 600px) {
