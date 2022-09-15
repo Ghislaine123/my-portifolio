@@ -63,9 +63,6 @@ body
    /* color: blueviolet; */
 }
 
-.container-par .image-ntn{
-	/* padding: auto; */
-}
 
 .container-par img
 {
@@ -81,12 +78,34 @@ body
 	text-align: center;
 	
 }
+
+.projects-container
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 20px 0;
+}
+.projects-container .projects-card
+{
+	height: 250px;
+	width: 260px;
+	padding: 10px;
+	background-color: aquamarine;
+	margin: 20px;
+	border-radius: 10px;
+}
+.projects-container .projects-card img
+{
+	width: 100%;
+	height: 100%;
+}
+
 .column {
   float: left;
   width: 25%;
   padding: 0 10px;
 }
-
 
 .row {margin: 0 -5px;}
 
